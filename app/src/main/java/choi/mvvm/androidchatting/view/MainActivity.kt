@@ -1,4 +1,4 @@
-package choi.mvvm.androidchatting
+package choi.mvvm.androidchatting.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
